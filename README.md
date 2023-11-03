@@ -1,5 +1,5 @@
-# Calculator, Shape, and Converter Program
-This is a Python program that includes a calculator, shape functions and a unit converter. The program offers basic and complex calculations, calculate the areas and volumes of 2D and 3D shapes and can also convert between temperature, length, and weight units.
+# Calculator and Converter Program
+This is a Python program that includes a calculator and a unit converter. The program offers basic and complex calculations, calculate the areas and volumes of 2D and 3D shapes and can also convert between temperature, length, and weight units.
 
 # Installation
 To run this program, make sure you have Python 3 installed. Then, download or clone the repository to your local machine.
