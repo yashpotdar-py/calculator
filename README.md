@@ -14,6 +14,3 @@ To use the calculator, follow the prompts in the command line interface to input
 
 # Converter
 The converter can convert between different units of temperature, length, and weight. Follow the prompts in the command line interface to input the desired conversion and values. The program will then return the converted result.
-
-# Shapes
-The shapes function can calculate the areas, perimeter and volumes of 2D and 3D shapes like square, cube, sphere, triangle, etc. Follow the prompts in the command line interface to input the desired shapes, dimnesions, etc, The program will then return the calculated values.
